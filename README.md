@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korak1111
 - 👀 I’m interested in most thing software and mechincal! Looking at Ai 👀
-- 🌱 I’m currently learning Undergrad courses in Mechatroincs and Ai at the Universty of Waterloo!
+- 🌱 I’m currently learning Undergrad courses in Mechatronics and Ai at the Universty of Waterloo!
 
 
 <!---

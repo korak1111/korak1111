@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @korak1111
-- 👀 I’m interested in most things software and mechincal! Looking at Ai 👀
-- 📍 Currently working with Cisco
+👋 Hi, I’m @korak1111
+👀 I’m interested in most things software and mechincal! Looking at Ai 👀
+📍 Currently working with Cisco
 
 
 <!---

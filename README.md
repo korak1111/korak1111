@@ -1,8 +1,8 @@
 👋 Hi, I’m @korak1111
 
-👀 I’m interested in most things software and mechincal! Looking at Ai 👀
+👀 I’m interested in most things software and mechincal! Wokring on my Masters in AI 👀
 
-📍 Currently working with Cisco
+📍 Currently working @ Cisco
 
 
 <!---
